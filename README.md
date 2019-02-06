@@ -1,3 +1,2 @@
 # Server-KSP
-Kerbal Space Program <br>
-blabla
+Kerbal Space Program
